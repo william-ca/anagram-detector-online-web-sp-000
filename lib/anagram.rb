@@ -8,7 +8,7 @@ class Anagram
   end
 
   def match(other_words)
-    
+
   end
-    
+
 end
